@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/src/**/*.js": true,
+    "**/src/**/*.d.ts": true,
+    "**/lib/**/*.js": true,
+    "**/lib/**/*.d.ts": true,
+    "**/test/**/*.js": true,
+    "**/test/**/*.d.ts": true,
+    "**/bin/**/*.js": true,
+    "**/bin/**/*.d.ts": true
+  },
+  "search.exclude": {
+    "**/src/**/*.js": true,
+    "**/src/**/*.d.ts": true,
+    "**/lib/**/*.js": true,
+    "**/lib/**/*.d.ts": true,
+    "**/test/**/*.js": true,
+    "**/test/**/*.d.ts": true,
+    "**/bin/**/*.js": true,
+    "**/bin/**/*.d.ts": true
+  }
+}
